@@ -1,6 +1,8 @@
 # Welcome to my profile :sunny:
  👋 Hi stranger, I’m @IlyaBerzhanin and I'm Frontend Developer  
  
+ :ghost: Before you sink into my projects I should say that **every project** has its own current **status** in readme file 
+ 
  :pray: I hope you will be satisfied or at least not disappointed with my repositories
  
 
