@@ -1,9 +1,8 @@
 # Welcome to my profile :sunny:
- 👋 Hi, I’m @IlyaBerzhanin and I'm Frontend Developer  
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi stranger, I’m @IlyaBerzhanin and I'm Frontend Developer  
+ 
+ :pray: I hope you will be satisfied or at least not disappointed with my repositories
+ 
 
 <!---
 IlyaBerzhanin/IlyaBerzhanin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
