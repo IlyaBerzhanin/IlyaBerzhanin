@@ -2,8 +2,8 @@
  👋 Hi stranger, I’m @IlyaBerzhanin and I'm Frontend Developer  
  
  :ghost: Before you sink into my projects I should say that:
- 1. **every project** has its own current **status** in readme file => because some of them some can be unfinished at this moment 
- 2. I realize that some projects(event with __completed__ status) can contain code issues and I'd better refactor it, thank you!
+ 1. **Every project** has its own current **status** in readme file => because some of them some can be unfinished at this moment 
+ 2. I realize that some projects(event with _completed_ status) can contain code issues and I'd better refactor it, thank you!
  
  :pray: I hope you will be satisfied or at least not disappointed with my repositories
  
